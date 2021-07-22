@@ -7,6 +7,7 @@ User Rating Project
 - Timeline displaying the average rating per period
 - Period editable with a dropdown in the toolbar
 - Timeline indicators clickable to view the details of the rating records for the clicked average value
+- Timeline indicator highlighted for the current time inthe selected period
 
 ## Getting Started
 
