@@ -1,4 +1,4 @@
-# factorial_project_front
+# Factorial Project - Frontend
 
 User Rating Project
 
