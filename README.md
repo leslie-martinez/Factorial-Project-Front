@@ -68,7 +68,7 @@ To Run the frontend app you have 2 choices (Using Docker is recommended to avoid
   ```
   3. The application is now available at `http://localhost:8080`
 
-### To go further
+## To go further
 In order to enhance the application, we could look into the following items: 
 - String Localization
 - Components Reusability
